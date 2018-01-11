@@ -29,7 +29,7 @@ html, body {
 }
 #email a {
   font-size: 25px;
-  font-size: 4vmin;
+  font-size: 4vmax;
   font-family: monospace;
   color: blue;
   text-decoration: none;
