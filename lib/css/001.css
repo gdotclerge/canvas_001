@@ -18,24 +18,3 @@ html, body {
   background: rgb(255, 255, 255);
   z-index: 1;
 }
-
-#email {
-  position: relative;
-  top: 95%;
-  left: 5%;
-  z-index: 2;
-  width: 0;
-  height: auto;
-}
-#email a {
-  font-size: 15px;
-  /* font-size: 4vmax; */
-  font-family: monospace;
-  color: blue;
-  text-decoration: none;
-}
-
-#email a:hover {
-  font-style: italic;
-  color: rgb(252, 98, 98);
-}
